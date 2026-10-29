@@ -1,0 +1,1 @@
+I am a full time student majoring in Computing Applications and a self proclaimed music producer passionate about classic synthesizer hardware. 
