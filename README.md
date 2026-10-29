@@ -244,4 +244,5 @@ You have successfully created a new knowledge base docs website. Now you can foc
 
 ## License
 
-This template is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This template is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
+
