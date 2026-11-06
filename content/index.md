@@ -7,6 +7,15 @@ This is a collection of legendary synthesizers and keyboards that helped shape t
 
 %%This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.%%
 
+## Main Categories
+
+- [[digital-romplers/index | Digital Romplers]]
+- [[fm-synthesizers/index | FM Synthesizers]]
+- [[analog-subtractive/index | Analog & Subtractive Synthesizers]]
+- [[sampling-workstations/index | Sampling Workstations]]
+- [[electric-pianos/index | Vintage Electric Pianos]]
+
+
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
